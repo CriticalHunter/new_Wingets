@@ -10,3 +10,6 @@ A simple Python script to list new repositories that are added to Winget (Window
 
 ## About Winget
 Incase you don't know, [Winget](https://github.com/microsoft/winget-cli) is a new **Much awaited** Windows Package Manager CLI.
+
+## Pre-Requisite
+1. Have [Winget](https://github.com/microsoft/winget-cli) installed on your **Windows** device.
